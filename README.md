@@ -14,4 +14,4 @@ Also I like share my differents solutions and demos on my repositories to help w
 
 #### Contact me:
 
-[![Email](https://img.shields.io/static/v1?logo=icloud&message=victorcastro.io@icloud.com&color=red&label=&labelColor=101010&style=for-the-badge)](mailto:victorcastro.io@icloud.com)
+[![Email](https://img.shields.io/static/v1?logoColor=white&logo=icloud&message=victorcastro.io@icloud.com&color=red&label=&labelColor=101010&style=for-the-badge)](mailto:victorcastro.io@icloud.com)
