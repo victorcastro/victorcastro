@@ -14,4 +14,7 @@ Also I like share my differents solutions and demos on my repositories to help w
 
 #### Contact me:
 
-[![Email](https://img.shields.io/static/v1?logoColor=white&logo=icloud&message=victorcastro.io@icloud.com&color=red&label=&labelColor=101010&style=for-the-badge)](mailto:victorcastro.io@icloud.com)
+[![Email](https://img.shields.io/static/v1?logoColor=white&logo=gmail&message=victorcastro.io@icloud.com&color=black&label=&labelColor=101010&style=flat)](mailto:victorcastro.io@icloud.com)
+
+[![Whatsapp](https://img.shields.io/static/v1?logoColor=white&logo=whatsapp&message=%2b51%20961509467&color=black&label=&labelColor=101010&style=flat)](https://wa.me/51961509467)
+
