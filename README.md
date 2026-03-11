@@ -1,6 +1,6 @@
 #### Hey 👋🏻, my name is Victor Castro
 
-I'm Software Engineer currently in Lima, Perú. I write code and love coding on iOS with SwiftUI and Swift 5.
+I'm IOS Software Engineer and I write code and love coding on iOS with SwiftUI and Swift 5.
 Also I like share my differents solutions and demos on my repositories to help world  :).
 
 
@@ -10,9 +10,3 @@ Also I like share my differents solutions and demos on my repositories to help w
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)](#)
 [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)](#)
 [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCpn2lUfGdhzxpWl9AWP1oRw?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UCpn2lUfGdhzxpWl9AWP1oRw)
-
-
-#### Contact me:
-
-[![Whatsapp](https://img.shields.io/static/v1?logoColor=white&logo=whatsapp&message=%2b51%20928218253&color=black&label=&labelColor=101010&style=flat)](https://wa.me/51928218253)
-
