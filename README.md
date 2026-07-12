@@ -3,7 +3,7 @@
 Senior iOS Software Engineer based in Madrid. I build apps with Swift 6 and SwiftUI, focused on clean architecture and real product — from mobile banking with millions of users to self-shipped apps on the App Store.
 
 #### Side Projects
-- 🌍 [Parla]([#](https://apps.apple.com/us/app/parla-translate/id6780196964)) — AI translation app that asks before it assumes, published on the App Store
+- 🌍 [Parla](https://apps.apple.com/us/app/parla-translate/id6780196964) — AI translation app that asks before it assumes, published on the App Store
 - 🎨 [Artifan](#) — Marketplace for hiring local artists in your city
 
 #### Stack
@@ -12,4 +12,4 @@ Senior iOS Software Engineer based in Madrid. I build apps with Swift 6 and Swif
 [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)](#)
 [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCpn2lUfGdhzxpWl9AWP1oRw?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UCpn2lUfGdhzxpWl9AWP1oRw)
 
-📫 [LinkedIn](#) · [Portfolio]([#](https://victorcastro.dev/))
+📫 [LinkedIn](#) · [Portfolio](https://victorcastro.dev/)
