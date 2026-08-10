@@ -1,9 +1,10 @@
 ### Hey 👋🏻, I'm Victor Hugo Castro Contreras
 
-Senior iOS Software Engineer based in Madrid. I build apps with Swift 6 and SwiftUI, focused on clean architecture and real product — from mobile banking with millions of users to self-shipped apps on the App Store.
+Staff iOS Software Engineer. I build apps with Swift 6 and SwiftUI, focused on clean architecture and real product — from mobile banking with millions of users to self-shipped apps on the App Store.
 
 #### Side Projects
 - 🌍 [Parla](https://apps.apple.com/us/app/parla-translate/id6780196964) — AI translation app that asks before it assumes, published on the App Store
+- ䷉ [Prompter Glass](https://testflight.apple.com/join/TEfEdv7d) - Telepromter App OpenSource deployed at Github
 - 🎨 [Artifan](https://artifan.app/en) — Marketplace for hiring local artists in your city
 
 #### Stack
