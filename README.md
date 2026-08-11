@@ -4,7 +4,7 @@ Staff iOS Software Engineer. I build apps with Swift 6 and SwiftUI, focused on c
 
 #### Side Projects
 - 🌍 [Parla](https://apps.apple.com/us/app/parla-translator/id6780196964) — AI translation app that asks before it assumes, published on the App Store
-- ䷉ [Prompter Glass](https://testflight.apple.com/join/TEfEdv7d) - Telepromter App OpenSource deployed at Github
+- ䷉ [Prompter Glass](https://github.com/victorcastro/prompter-glass) - Teleprompter App OpenSource deployed at Github
 - 🎨 [Artifan](https://artifan.app/en) — Marketplace for hiring local artists in your city
 
 #### Stack
