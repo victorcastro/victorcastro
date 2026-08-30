@@ -3,8 +3,8 @@
 Staff iOS Software Engineer. I build apps with Swift 6 and SwiftUI, focused on clean architecture and real product — from mobile banking with millions of users to self-shipped apps on the App Store.
 
 #### Side Projects
-- 🌍 [Parla](https://apps.apple.com/us/app/parla-translator/id6780196964) — AI translation app that asks before it assumes, published on the App Store
-- ䷉ [Prompter Glass](https://github.com/victorcastro/prompter-glass) - Teleprompter App OpenSource deployed at Github
+- 🌍 [Parlator](https://apps.apple.com/us/app/parlator/id6780196964) — AI translation app that asks before it assumes, published on the App Store
+- ䷉ [Prompter Glass]([https://github.com/victorcastro/prompter-glass](https://apps.apple.com/us/app/prompter-glass-opensource/id6799969248?mt=12)) - Teleprompter App OpenSource deployed at Github
 - 🎨 [Artifan](https://artifan.app/en) — Marketplace for hiring local artists in your city
 
 #### Stack
@@ -13,4 +13,4 @@ Staff iOS Software Engineer. I build apps with Swift 6 and SwiftUI, focused on c
 [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)](#)
 [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCpn2lUfGdhzxpWl9AWP1oRw?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UCpn2lUfGdhzxpWl9AWP1oRw)
 
-📫 [LinkedIn](https://www.linkedin.com/in/victor-castro-software-engineer) · [Portfolio](https://victorcastro.dev)
+📫 [LinkedIn](https://www.linkedin.com/in/victorcastro-staff-software-engineer) · [Portfolio](https://victorcastro.dev)
