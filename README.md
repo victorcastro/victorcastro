@@ -1,6 +1,6 @@
 ### Hey 👋🏻, I'm Victor Hugo Castro Contreras
 
-Staff iOS Software Engineer. I build apps with Swift 6 and SwiftUI, focused on clean architecture and real product — from mobile banking with millions of users to self-shipped apps on the App Store.
+I'm Software Engineer and I build mobile apps focused on clean architecture and real product — from mobile banking with millions of users to self-shipped apps on the App Store.
 
 #### Side Projects
 - 🌍 [Parlator](https://apps.apple.com/us/app/parlator/id6780196964) — AI translation app that asks before it assumes, published on the App Store
