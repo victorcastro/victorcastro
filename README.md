@@ -7,10 +7,4 @@ I'm Software Engineer and I build mobile apps focused on clean architecture and 
 - ䷉ [Prompter Glass](https://apps.apple.com/us/app/prompter-glass-opensource/id6799969248?mt=12) - Teleprompter App OpenSource deployed at Github
 - 🎨 [Artifan](https://artifan.app/en) — Marketplace for hiring local artists in your city
 
-#### Stack
-[![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)](#)
-[![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)](#)
-[![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)](#)
-[![Youtube](https://img.shields.io/youtube/channel/subscribers/UCpn2lUfGdhzxpWl9AWP1oRw?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UCpn2lUfGdhzxpWl9AWP1oRw)
-
 📫 [LinkedIn](https://www.linkedin.com/in/victorcastro-staff-software-engineer) · [Portfolio](https://victorcastro.dev)
