@@ -2,7 +2,7 @@
 
 # Victor Hugo Castro Contreras
 
-**AI Engineer · Python · Software Architecture**
+**AI Engineer · Software Architecture**
 
 I design and ship AI-powered products: LLM apps, agents and the tooling around them.
 Previously mobile banking at scale, now building AI solutions end to end.
